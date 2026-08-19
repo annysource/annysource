@@ -10,12 +10,11 @@ Hi there 👋
 ⚡Fun fact: Eu escrevo uma newsletter técnica na comunidade chamada [BreaQA](https://www.linkedin.com/newsletters/breaqa-7464709624496025600/), além de ter ganho alguns prêmios como universitária e profissional em ascensão na indústria de games Women in Games "Student Achievement", 2º lugar Pitch for Change, Rising Star Brazil Women That Build pela Globant, Tester destaque no Testathon da Meta, entre outros.
 
 
-Novidade: workshop de git na ARVORE
 ---
 
 🛠️ Tecnologias e Ferramentas  
 <sub>
-**Linguagens & Cloud:** C#, Python, SQL, Java, JavaScript, TypeScript, Three.JS, AWS (S3/EC2).  
+Linguagens & Cloud: C#, Python, SQL, Java, JavaScript, TypeScript, Three.JS, AWS (S3/EC2).  
 Qualidade & DevOps: Testes automatizados, APIs REST, GitHub Actions, Azure DevOps, CI/CD.  
 Plataformas & Engines: VR/XR (Meta Quest, PSVR), Unity Engine, Unreal Engine, Mobile e Web.
 
