@@ -9,6 +9,8 @@ Hi there 👋
 📫 How to reach me: No e-mail sousa.annyc@gmail.com ou direto pelo meu [LinkedIn](https://www.linkedin.com/in/annysousa/).  
 ⚡Fun fact: Eu escrevo uma newsletter técnica na comunidade chamada [BreaQA](https://www.linkedin.com/newsletters/breaqa-7464709624496025600/), além de ter ganho alguns prêmios como universitária e profissional em ascensão na indústria de games Women in Games "Student Achievement", 2º lugar Pitch for Change, Rising Star Brazil Women That Build pela Globant, Tester destaque no Testathon da Meta, entre outros.
 
+
+Novidade: workshop de git na ARVORE
 ---
 
 🛠️ Tecnologias e Ferramentas  
