@@ -16,7 +16,7 @@ Minha experiência inclui ARVORE Immersive Experiences, Accenture, Kokku e Gazeu
 
 ## Iniciativas
 
-🎮 **Iná Game Studio** — criação e produção de jogos e experiências interativas.
+🎮 **InaLuz Cria** — criação e produção de jogos e experiências interativas.
 
 🔎 **QA Game HUB** — formação de profissionais de QA e apoio a estúdios indie com processos de qualidade e diagnóstico de saúde de builds.
 
