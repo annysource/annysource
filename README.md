@@ -1,25 +1,37 @@
-Hi there 👋
+# Olá, sou Anny Sousa 👋
 
-<sub>Software Development Engineer in Test com foco em Games e Tecnologias Emergentes. Trabalho há mais de 6 anos com qualidade e  desenvolvimento de aplicações interativas, cobrindo desde jogos (mobile, web, instant, netflix games, VR, XR e consoles) até novas experiências com Tecnologias Emergentes. Passei por empresas como Accenture, Kokku, Gazeus Games. 
+**Creative Technologist com foco em Quality Engineering.**  
+Criatividade com eficiência operacional.
 
-🔭 <sub>I’m currently working on: Testes estruturados e pipelines de qualidade na ARVORE Immersive Experiences. Também sou fundadora do QA Game Hub.  
-🌱 I’m currently learning: Engenharia de Software na UFRJ e Inteligência Artificial Aplicada na UNIPDS.  
-👯 I’m looking to collaborate on: Projetos de desenvolvimento backend, infraestrutura cloud (AWS), pipelines de CI/CD e soluções de IA aplicadas a testes.  
-💬 Ask me about: C#, Python, Unity Engine, agentes para testes automatizados, além de pesquisas técnicas envolvendo Vertex AI, NVIDIA Omniverse e Claude.  
-📫 How to reach me: No e-mail sousa.annyc@gmail.com ou direto pelo meu [LinkedIn](https://www.linkedin.com/in/annysousa/).  
-⚡Fun fact: Eu escrevo uma newsletter técnica na comunidade chamada [BreaQA](https://www.linkedin.com/newsletters/breaqa-7464709624496025600/), além de ter ganho alguns prêmios como universitária e profissional em ascensão na indústria de games Women in Games "Student Achievement", 2º lugar Pitch for Change, Rising Star Brazil Women That Build pela Globant, Tester destaque no Testathon da Meta, entre outros.
+Conecto criação, engenharia e qualidade em jogos, experiências interativas e tecnologias emergentes. Trabalho para atender requisitos, fortalecer a confiança das partes interessadas e reduzir retrabalho.
 
+## O que faço
 
----
+- **Games & XR:** desenvolvimento, testes e investigação técnica de experiências imersivas.
+- **Quality Engineering:** testes funcionais, exploratórios, integração, regressão, APIs REST, performance e carga.
+- **IA aplicada:** validação de comportamentos de AI/LLM, prompts e integrações.
+- **Produção:** coordenação de jogos e ativações de marca, alinhando clientes, equipes e requisitos.
 
-🛠️ Tecnologias e Ferramentas  
-<sub>
-Linguagens & Cloud: C#, Python, SQL, Java, JavaScript, TypeScript, Three.JS, AWS (S3/EC2).  
-Qualidade & DevOps: Testes automatizados, APIs REST, GitHub Actions, Azure DevOps, CI/CD.  
-Plataformas & Engines: VR/XR (Meta Quest, PSVR), Unity Engine, Unreal Engine, Mobile e Web.
+Minha experiência inclui ARVORE Immersive Experiences, Accenture, Kokku e Gazeus Games, com atuação em web, mobile, consoles e XR.
 
----
+## Iniciativas
 
- 🌱 Estudo Dirigido  
-<sub> Nota: nos últimos anos tenho usado o github para entrega de trabalhos na faculdade (graduação e pós graduação) e game jams. Abaixo, alguns trabalhos que achei maneiro fazer. 
+🎮 **Iná Game Studio** — criação e produção de jogos e experiências interativas.
 
+🔎 **QA Game HUB** — formação de profissionais de QA e apoio a estúdios indie com processos de qualidade e diagnóstico de saúde de builds.
+
+## Tecnologias e estudos
+
+**Experiência com:** Unity · Unreal Engine · C# · C++ · Jira · Confluence · Azure DevOps
+
+**Aprofundando a prática em:** Playwright · Cypress · Pytest · CI/CD · DevOps · Observabilidade
+
+Estudo Engenharia de Software e Engenharia de Software com IA Aplicada. Tenho interesse em automação e ferramentas que reduzam tarefas repetitivas e ofereçam feedback mais rápido às equipes de desenvolvimento.
+
+## Além do código
+
+Pesquisa aplicada, palestras, game jams e colaboração com comunidades de tecnologia e games.
+
+## Vamos conversar
+
+[Portfólio](https://annysousa.dev) · [LinkedIn](https://www.linkedin.com/in/annysousa/)
