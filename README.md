@@ -7,7 +7,7 @@ Conecto criação, engenharia e qualidade em jogos, experiências interativas e 
 
 ## O que faço
 
-- **Games & XR:** desenvolvimento, testes e investigação técnica de experiências imersivas.
+- **Games & XR:** desenvolvimento, testes e investigação técnica de experiências imersivas. Automações de pipeline, otimização de fluxos de trabalho.
 - **Quality Engineering:** testes funcionais, exploratórios, integração, regressão, APIs REST, performance e carga.
 - **IA aplicada:** validação de comportamentos de AI/LLM, prompts e integrações.
 - **Produção:** coordenação de jogos e ativações de marca, alinhando clientes, equipes e requisitos.
